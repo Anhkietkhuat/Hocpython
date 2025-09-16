@@ -1,0 +1,5 @@
+- Tạo file giả lập nhiệt độ độ ẩm
+- code đọc dữ liệu từ file
+- code giao diện
+
+	có tham khảo ChatGPT
